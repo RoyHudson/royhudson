@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Roy Hudson</h1>
 <h3 align="center">A passionate Software Engineer from Panamá</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royhudson" alt="royhudson" /></a> </p>
-
 - 🔭 I’m currently working on **Ubiqua / ADR Tecnologies**
 
 - 🌱 I’m currently learning **Next.js, React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/roysykes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="roysykes" height="30" width="40" /></a>
 <a href="https://twitter.com/@royghudsono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@royghudsono" height="30" width="40" /></a>
 </p>
 
